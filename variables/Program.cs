@@ -12,6 +12,9 @@ namespace variables
         {
             Console.WriteLine("Hello World!");
             Console.ReadKey();
+
+            int score;
+
         }
     }
 }
